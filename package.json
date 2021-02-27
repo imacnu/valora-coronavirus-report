@@ -1,0 +1,15 @@
+{
+  "name": "valora-coronavirus-report",
+  "version": "1.0.0",
+  "description": "Valora Prevenvencion coronavirus report",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Manu Álvarez - imacnu@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  }
+}
