@@ -12,7 +12,7 @@ describe("Valora prevencion Coronavirus status", () => {
       });
       it("THEN fill form ...", () => {
         cy.get(userInput)
-          .type('E052151')
+          .type(user)
           .should('have.value', user)
         cy.get(status)
           .check()
