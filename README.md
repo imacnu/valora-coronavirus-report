@@ -11,3 +11,5 @@ Console Mode
 ```
 yarn test
 ```
+
+https://imacnu.github.io/valora-coronavirus-report/
